@@ -2,7 +2,7 @@
 #include <string>
 #include <algorithm>
 using namespace std;
-
+// i hate github sometimes
 float rounding(float var)
 {
     char str[40];
